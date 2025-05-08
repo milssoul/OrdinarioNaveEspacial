@@ -1,7 +1,6 @@
 # 🚀 Space Blaster: ¡Destruye los asteroides!
 
 ![Made With Love](https://img.shields.io/badge/made%20with-%F0%9F%92%95-pink)
-![Game Status](https://img.shields.io/badge/status-en%20proceso-yellow)
 ![Game Status](https://img.shields.io/badge/status-terminado-success)
 
 **Space Blaster** es un juego estilo arcade donde pilotas una nave espacial para destruir asteroides que amenazan el universo. ¡Pon a prueba tus reflejos y sobrevive el mayor tiempo posible!
@@ -10,10 +9,10 @@
 
 ## 🎮 ¿Cómo se juega?
 
-1. **Instrucciones** rahhhh
-2. 
-3.  
-4. 
+1. **Controladores** W, A, S, D como téclas de movimiento
+2. **Controladores** P dispara
+3. **Instruccónes** Evade los meteoritos y lasers, deestruyendolos con lasers!
+4. **Instrucciónes** Navega hacia los power-ups para conseguir puntos y 
 ---
 
 ## ✨ Características
@@ -25,16 +24,17 @@
 
 ## 🧠 Tecnologías utilizadas
 
-- Lenguaje: 
-- Librerías: 
+- Lenguaje: Java
 
 ---
 
-## 👩‍💻 Autoras
+## 👩‍💻 Autores
 
 - Emilia Torio  
 - Natalia Zoe  
-- Vanessa Lubcke  
+- Vanessa Lubcke
+
+- **Inspirado por:** Joshua Hernandez
 
 Con mucho cariño 💖
 
