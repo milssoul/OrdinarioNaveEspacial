@@ -1,3 +1,6 @@
+//Zoe López, Vanessa Lubcke, Emilia Torio
+//Proyecto Ordinario - 20/05/2025
+
 package main;
 import java.awt.Canvas;
 import java.awt.Color;
