@@ -19,6 +19,8 @@
 
 - Muestra las vidas 💗
 - Muestra la puntuación 🚀
+- Contiene potenciadores 🕹️
+- Guarda las 10 mejores puntuaciones ✨
 
 ---
 
